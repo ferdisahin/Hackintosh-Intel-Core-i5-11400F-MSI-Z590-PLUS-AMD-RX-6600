@@ -36,5 +36,6 @@ Before installing Hackintosh, you need to configure the [BIOS settings](https://
 
 I would not recommend using SMBIOS except for the iMac Pro1.1. Because the processor is 11th generation, it only works with iMac Pro1,1.
 
-### Images
+### Image
 
+![Desktop](https://raw.githubusercontent.com/ferdisahin/Hackintosh-Intel-Core-i5-11400F-MSI-Z590-PLUS-AMD-RX-6600/0.8.0/Images/desktop.jpeg)
